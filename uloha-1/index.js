@@ -24,3 +24,4 @@ btnDown.addEventListener('click', () => {
 });
 
 updateCounter(value);
+
